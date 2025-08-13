@@ -13,6 +13,7 @@ body {
 }
 
 .header_text {
+    margin-top: 70%;
     font-size: 3em;
     color: #d32f2f;
 }
@@ -21,4 +22,5 @@ body {
     width: 100%; 
     max-width: 500px; 
     height: auto; 
+
 }
